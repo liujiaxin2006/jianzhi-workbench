@@ -1,0 +1,14 @@
+{
+  "name": "jianzhi-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "轻盈工作台 · 数据同步后端（阿里云学生机）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
